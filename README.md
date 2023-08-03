@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated data analyst with a fervent enthusiasm for extracting meaningful insights and patterns from complex datasets, adept at employing various analytical techniques to inform data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiroyush&label=Profile%20views&color=0e75b6&style=flat" alt="kiroyush" /> </p>
 
