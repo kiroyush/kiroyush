@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiroyush" target="blank"><img src="https://img.shields.io/twitter/follow/kiroyush?logo=twitter&style=for-the-badge" alt="kiroyush" /></a> </p>
 
-- 🔭 I’m currently working on **app development**
+- 🔭 Immersed in data analysis, extracting insights to inform strategic decisions effectively.
 
 - 🌱 I’m currently learning **python and java**
 
