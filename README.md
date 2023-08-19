@@ -9,9 +9,9 @@
 
 - 🔭 Immersed in data analysis, extracting insights to inform strategic decisions effectively.
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 At present, I am engaged in the domain of **data analytics**.
 
-- 💬 Ask me about **c and c++**
+- 💬 Ask me about **my projetcs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-kumar-71a717186**
 
